@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  size: S
+  color: blue
+  stock: 1
+  price: 1.5
+
+two:
+  size: M
+  color: red
+  stock: 1
+  price: 1.5
